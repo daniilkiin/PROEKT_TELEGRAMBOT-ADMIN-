@@ -1,0 +1,41 @@
+{
+  "theme": {
+    "questions": {
+      "who am i?": {
+        "otvets": {
+          "nobody": {},
+          "somebody": {
+            "question": "somebody who?"
+          },
+          "was talking": {
+            "question": "the world ..."
+          }
+        }
+      },
+      "somebody who?": {
+        "otvets": {
+          "superman": {},
+          "superwoman": {},
+          "lemon": {}
+        }
+      },
+      "the world ...": {
+        "otvets": {
+          "is gonna rolling": {
+
+          },
+          "on fire": {
+
+          },
+          "i dont know": {
+
+          }
+        }
+      }
+    }
+  },
+  "Автомобили": {
+    "questions": [],
+    "otvets": []
+  }
+}
